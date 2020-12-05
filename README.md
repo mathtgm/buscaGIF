@@ -1,16 +1,15 @@
-# buscaGIF
+# Buscador de GIF
 
-A new Flutter project.
+Projeto feito em Flutter usando a API do GIPHY.
 
-## Getting Started
+<h3>Descrição do aplicativo:</h3>
+Aplicativo hibrido que permite buscar e compartilhar GIFs.
 
-This project is a starting point for a Flutter application.
+<table style="width:100%;">
+  <tr>
+    <td><img src="fotos_aplicativo/home_page.png" height="500px" width="auto"/></td>
+    <td><img src="fotos_aplicativo/gif_page.png" height="500px" width="auto"/></td>
+    <td><img src="fotos_aplicativo/share_gif.png" height="500px" width="auto"/></td>
+  </tr>
+</table>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
